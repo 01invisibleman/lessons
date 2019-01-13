@@ -1,0 +1,14 @@
+{
+  "name": "read",
+  "version": "0.0.0",
+  "description": "",
+  "main": "read.js",
+  "scripts": {
+    "start": "nodemon read.js"
+  },
+  "author": "Amir Divandari",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

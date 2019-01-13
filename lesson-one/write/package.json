@@ -1,0 +1,14 @@
+{
+  "name": "write",
+  "version": "0.0.0",
+  "description": "",
+  "main": "write.js",
+  "scripts": {
+    "start": "nodemon write.js"
+  },
+  "author": "Amir Divandari",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

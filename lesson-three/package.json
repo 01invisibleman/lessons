@@ -1,0 +1,20 @@
+{
+  "name": "greeting-program",
+  "version": "0.0.0",
+  "description": "A program to say hello to you!",
+  "main": "greeting-program",
+  "keywords": [
+    "node.js",
+    "npm",
+    "package",
+    "module",
+    "greeting",
+    "program"
+  ],
+  "author": "Amir Divandari",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "npm": "^6.5.0"
+  }
+}

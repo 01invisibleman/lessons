@@ -1,0 +1,20 @@
+{
+  "name": "weblog",
+  "version": "0.0.0",
+  "description": "A weblog!",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "weblog"
+  ],
+  "author": "Amir Divandari",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
